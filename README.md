@@ -1,6 +1,6 @@
 ##
 
-# 🏄‍♂️ Kenawak Ibsa
+# 🏄‍♂️ Kenawak Ibsa 💻
 
 **`Frontend Developer`**
 
