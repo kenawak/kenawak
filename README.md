@@ -10,7 +10,8 @@
 
 - 📫 How to reach me: **`kenawakibsa95@gmail.com`**
 
-- ⚡ Fun fact I am self taught developer
+- ⚡ Fun fact I like to drink coffee ☕
+
 
 ### Connect with me:
 
