@@ -3,7 +3,7 @@
 # 🏄‍♂️ Kenawak Ibsa 💻
 
 **`Fullstack Developer`**
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenawak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenawak&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning MERN STACK, Data Structure and Algorithm
 
 - 💬 Ask me about React, Html, css ,javascript ,Python ,C++ , bootstrap ,Frontend development
