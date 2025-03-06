@@ -1,53 +1,84 @@
-##
 
-# 🏄‍♂️ Kenawak Ibsa 💻
+<div align="center">
+  
+# 🚀 Kenawak Ibsa | MERN Stack Developer 🚀
 
-**`Fullstack Developer`**
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenawak&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
-- 🌱 I’m currently learning MERN STACK, Data Structure and Algorithm
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C7BDC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Coffee+Enthusiast+☕)](https://git.io/typing-svg)
 
-- 💬 Ask me about React, Html, css ,javascript ,Python ,C++ , bootstrap ,Frontend development
+<p align="center">
+  <a href="https://linkedin.com/in/kenawak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/Kenawak_Ibsa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:kenawakibsa95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-- 📫 How to reach me: **`kenawakibsa95@gmail.com`**
+</div>
 
-- ⚡ Fun fact I like to drink coffee ☕
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenawak&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 💫 About Me
 
-### Connect with me:
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwZDM4ZmE3MzM5MzI0ZjQ5ZWM5ZDM4NzBkZDRkNmNiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+
+- 🔭 I'm currently working on **MERN Stack Projects**
+- 🌱 I'm learning **Advanced React Patterns, Data Structures & Algorithms**
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Reach me at: **kenawakibsa95@gmail.com**
+- ⚡ Fun fact: I debug code better after a cup of coffee ☕
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🔙 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🧰 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kenawak's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenawak&layout=compact&theme=tokyonight&hide_border=true" alt="Kenawak's Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenawak&theme=tokyonight&hide_border=true" alt="Kenawak's GitHub Streak" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenawak&theme=tokyonight" alt="Kenawak's Contribution Graph" />
+</div>
 
 ---
 
-<a href="https://linkedin.com/in/kenawak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenawak" height="30" width="40" /></a>
-<a href="https://t.me/Kenawak_Ibsa" target="blank">
-<img align="center"  src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="kenawak" height="40" width="39" >
-</a>
-
----
-
-### Languages and Tools:
-
-<p align="left"> 
-<a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a>
-<a href="https://cpp-lang.com" target="_blank" rel="noreferrer">
-<img align="left" alt="C++" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="38"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"></a> </p>
-
-#
-
-## My Languages
-
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kenawak&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-
-## 📊 Stats
-
-![Kenawak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&theme=gruvbox)
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&locale=en" alt="kenawak" /></p> -->
-
-![My Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kenawak&show_icons=true&theme=gruvbox)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=blue" alt="Profile Views"/>
+  
+  ### Let's connect and build something amazing together! 💻
+  
+  ![Coffee](https://img.shields.io/badge/Coffee%20Level-100%25-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+</div>
