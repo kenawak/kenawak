@@ -1,34 +1,30 @@
 
 <div align="center">
   
-# 🚀 Kenawak Ibsa 
+# 🚀 Kenawak Ibsa | MERN Stack Developer 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C7BDC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Coffee+Enthusiast+☕)](https://git.io/typing-svg)
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/kenawak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/Kenawak_Ibsa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:kenawakibsa95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://t.me/Kenawak_Ibsa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://twitter.com/kenawak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 </div>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenawak&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 💫 About Me
+## 👋 Hello!
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwZDM4ZmE3MzM5MzI0ZjQ5ZWM5ZDM4NzBkZDRkNmNiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 I'm learning **Advanced React Patterns, Data Structures & Algorithms**
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 Reach me at: **kenawakibsa95@gmail.com**
-- ⚡ Fun fact: I debug code better after a cup of coffee ☕
+I'm Yeabsra, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!
+
+⚡ Fun fact: I debug code better after a cup of coffee ☕
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -75,7 +71,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=blue" alt="Profile Views"/>
   
   ### Let's connect and build something amazing together! 💻
