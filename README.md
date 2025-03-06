@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C7BDC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Coffee+Enthusiast+☕)](https://git.io/typing-svg)
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/kenawak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kenawakibsa95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://t.me/Kenawak_Ibsa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -18,13 +18,15 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwZDM4ZmE3MzM5MzI0ZjQ5ZWM5ZDM4NzBkZDRkNmNiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-I'm Yeabsra, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!
+I'm Kenawak Ibsa, a passionate MERN Stack Developer with a love for creating elegant solutions to complex problems. My journey in software development has been driven by curiosity and a desire to build applications that make a difference.
+
+I specialize in building responsive web applications using React, Node.js, Express, and MongoDB. I'm constantly exploring new technologies and methodologies to enhance my skills and deliver better solutions.
+
+When I'm not immersed in code, you'll find me exploring new tech trends, contributing to open-source projects, or enjoying a freshly brewed cup of coffee. I believe in writing clean, maintainable code and creating intuitive user experiences.
 
 ⚡ Fun fact: I debug code better after a cup of coffee ☕
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,31 +52,29 @@ I'm Yeabsra, a web and mobile developer from Ethiopia. I taught myself how to bu
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kenawak's GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenawak&layout=compact&theme=tokyonight&hide_border=true" alt="Kenawak's Top Languages" height="170"/>
-</div>
+</p>
 
-<div align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenawak&theme=tokyonight&hide_border=true" alt="Kenawak's GitHub Streak" />
-</div>
+</p>
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenawak&theme=tokyonight" alt="Kenawak's Contribution Graph" />
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  ### Let's connect and build something amazing together! 💻
-  
-  ![Coffee](https://img.shields.io/badge/Coffee%20Level-100%25-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-</div>
+</p>
+
+### Let's connect and build something amazing together! 💻
+
+![Coffee](https://img.shields.io/badge/Coffee%20Level-100%25-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
