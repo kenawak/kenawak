@@ -1,80 +1,89 @@
-
 <div align="center">
-  
-# 🚀 Kenawak Ibsa | MERN Stack Developer 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C7BDC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Coffee+Enthusiast+☕)](https://git.io/typing-svg)
+# Kenawak Ibsa
 
-<p>
-  <a href="https://linkedin.com/in/kenawak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kenawakibsa95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://t.me/Kenawak_Ibsa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://twitter.com/kenawak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+**Full-Stack Developer · AI Engineer · Founder @ Solara**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+voice+agents+for+Africa+%F0%9F%8C%8D;RAG+systems+%7C+AI+agents+%7C+Full-stack;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+products%2C+not+just+code)](https://kenawak.dev)
+
+[![Portfolio](https://img.shields.io/badge/kenawak.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kenawak.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenawak)
+[![X](https://img.shields.io/badge/@kenawakibsa-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kenawakibsa)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kenawak_Ibsa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenawakibsa95@gmail.com)
 
 </div>
 
-## 👋 Hello!
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwZDM4ZmE3MzM5MzI0ZjQ5ZWM5ZDM4NzBkZDRkNmNiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+## ⚡ What I'm building
 
-I'm Kenawak Ibsa, a passionate MERN Stack Developer with a love for creating elegant solutions to complex problems. My journey in software development has been driven by curiosity and a desire to build applications that make a difference.
+```typescript
+const kenawak = {
+  location: "Addis Ababa, Ethiopia 🇪🇹",
+  role: "Founder & Full-Stack Developer",
+  company: "Solara",
+  focus: ["AI Voice Agents", "RAG Systems", "AI-Powered Web Apps"],
+  currentlyShipping: {
+    solara: "Multilingual AI voice agents (Amharic + English) handling real customer calls for Ethiopian businesses",
+    adwaAI: "AI-powered museum platform — scan an artifact, hear its story, walk a 3D museum in your browser",
+  },
+  interests: ["AI Safety", "Agentic Systems", "Voice AI for low-resource languages"],
+};
+```
 
-I specialize in building responsive web applications using React, Node.js, Express, and MongoDB. I'm constantly exploring new technologies and methodologies to enhance my skills and deliver better solutions.
+🎙️ **[Solara](https://kenawak.dev)** — AI voice agents that answer and make calls for businesses, in Amharic and English. Telephony/SIP → streaming ASR → LLM dialogue engine → TTS, with a business-facing dashboard on top.
 
-When I'm not immersed in code, you'll find me exploring new tech trends, contributing to open-source projects, or enjoying a freshly brewed cup of coffee. I believe in writing clean, maintainable code and creating intuitive user experiences.
-
-⚡ Fun fact: I debug code better after a cup of coffee ☕
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🔙 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🧰 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kenawak's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenawak&layout=compact&theme=tokyonight&hide_border=true" alt="Kenawak's Top Languages" height="170"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenawak&theme=tokyonight&hide_border=true" alt="Kenawak's GitHub Streak" />
-</p>
-
-## 📈 Contribution Graph
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenawak&theme=tokyonight" alt="Kenawak's Contribution Graph" />
-</p>
+🏛️ **Adwa AI** — an AI platform for the Adwa Museum: scan any artifact for an AI-narrated story, age-personalized storytelling voiced by historical figures, a crowdsourced "Voice of Adwa" audio archive, and a WebGL 3D walkthrough — no app needed.
 
 ---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+## 🛠️ Stack
 
-### Let's connect and build something amazing together! 💻
+**Core**
 
-![Coffee](https://img.shields.io/badge/Coffee%20Level-100%25-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**AI / Backend**
+
+![OpenAI](https://img.shields.io/badge/LLM_Apps-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6F61?style=flat-square&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenawak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenawak&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Building for the next billion users — starting from Addis Ababa.**
+
+*Open to collabs on voice AI, RAG, and agentic systems.* [Let's talk →](mailto:kenawakibsa95@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=00d9ff" alt="Profile Views"/>
+
+</div>
