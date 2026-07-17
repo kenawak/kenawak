@@ -2,9 +2,9 @@
 
 # Kenawak Ibsa
 
-**Full-Stack Developer · AI Engineer **
+**Full-Stack Developer · AI Engineer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+voice+agents+for+Africa+%F0%9F%8C%8D;RAG+systems+%7C+AI+agents+%7C+Full-stack;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+products%2C+not+just+code)](https://kenawak.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+apps+%F0%9F%8C%8D;RAG+systems+%7C+AI+agents+%7C+Full-stack;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+products%2C+not+just+code)](https://kenawak.dev)
 
 [![Portfolio](https://img.shields.io/badge/kenawak.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kenawak.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenawak)
@@ -21,18 +21,14 @@
 ```typescript
 const kenawak = {
   location: "Addis Ababa, Ethiopia 🇪🇹",
-  role: "Founder & Full-Stack Developer",
-  company: "Solara",
-  focus: ["AI Voice Agents", "RAG Systems", "AI-Powered Web Apps"],
+  role: "Full-Stack Developer",
+  focus: ["AI Agents", "RAG Systems", "AI-Powered Web Apps"],
   currentlyShipping: {
-    solara: "Multilingual AI voice agents (Amharic + English) handling real customer calls for Ethiopian businesses",
     adwaAI: "AI-powered museum platform — scan an artifact, hear its story, walk a 3D museum in your browser",
   },
-  interests: ["AI Safety", "Agentic Systems", "Voice AI for low-resource languages"],
+  interests: ["AI Safety", "Agentic Systems", "AI for low-resource languages"],
 };
 ```
-
-🎙️ **[Solara](https://kenawak.dev)** — AI voice agents that answer and make calls for businesses, in Amharic and English. Telephony/SIP → streaming ASR → LLM dialogue engine → TTS, with a business-facing dashboard on top.
 
 🏛️ **Adwa AI** — an AI platform for the Adwa Museum: scan any artifact for an AI-narrated story, age-personalized storytelling voiced by historical figures, a crowdsourced "Voice of Adwa" audio archive, and a WebGL 3D walkthrough — no app needed.
 
@@ -82,7 +78,7 @@ const kenawak = {
 
 **Building for the next billion users — starting from Addis Ababa.**
 
-*Open to collabs on voice AI, RAG, and agentic systems.* [Let's talk →](mailto:kenawakibsa95@gmail.com)
+*Open to collabs on RAG, agentic systems, and AI-powered products.* [Let's talk →](mailto:kenawakibsa95@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=00d9ff" alt="Profile Views"/>
 
