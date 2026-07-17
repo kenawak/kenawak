@@ -30,7 +30,6 @@ const kenawak = {
 };
 ```
 
-🏛️ **Adwa AI** — an AI platform for the Adwa Museum: scan any artifact for an AI-narrated story, age-personalized storytelling voiced by historical figures, a crowdsourced "Voice of Adwa" audio archive, and a WebGL 3D walkthrough — no app needed.
 
 ---
 
