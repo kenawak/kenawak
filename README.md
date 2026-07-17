@@ -2,7 +2,7 @@
 
 # Kenawak Ibsa
 
-**Full-Stack Developer · AI Engineer · Founder @ Solara**
+**Full-Stack Developer · AI Engineer **
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+voice+agents+for+Africa+%F0%9F%8C%8D;RAG+systems+%7C+AI+agents+%7C+Full-stack;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+products%2C+not+just+code)](https://kenawak.dev)
 
