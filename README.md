@@ -42,7 +42,7 @@ AI agents, RAG systems, and AI-powered web apps. Also interested in AI safety, a
   <a href="https://github.com/kenawak">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-      <img src="assets/activity-light.svg" width="840" alt="A year of GitHub contributions, with totals, streaks, and languages.">
+      <img src="assets/activity-light.svg" width="840" alt="A year of GitHub contributions charted by week, with totals, streaks, weekday rhythm, and languages.">
     </picture>
   </a>
 </p>
