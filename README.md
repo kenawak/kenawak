@@ -1,84 +1,59 @@
-<div align="center">
+<p align="center">
+  <a href="https://kenawak.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+      <img src="assets/banner-light.png" width="840" alt="Kenawak Ibsa. Full-stack developer. Fast, AI-based applications. Addis Ababa, Ethiopia.">
+    </picture>
+  </a>
+</p>
 
-# Kenawak Ibsa
+I'm Kenawak Ibsa (call me Ken), a full-stack developer in Addis Ababa. I build fast, AI-based applications: agents, RAG systems, and the web apps around them. I work at [Jami](https://jami.bio) on the product creators use to get paid, and study Information Science at Addis Ababa University.
 
-**Full-Stack Developer · AI Engineer**
+[kenawak.dev](https://kenawak.dev) · [X](https://x.com/keocodes) · [LinkedIn](https://www.linkedin.com/in/kenawak) · [Telegram](https://t.me/thekeocoder) · [Email](mailto:kenawakibsa95@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+apps+%F0%9F%8C%8D;RAG+systems+%7C+AI+agents+%7C+Full-stack;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Shipping+products%2C+not+just+code)](https://kenawak.dev)
+<p align="center"><img src="assets/wurroo-walk.svg" width="840" alt=""></p>
 
-[![Portfolio](https://img.shields.io/badge/kenawak.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kenawak.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenawak)
-[![X](https://img.shields.io/badge/@kenawakibsa-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kenawakibsa)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kenawak_Ibsa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenawakibsa95@gmail.com)
+### Work
 
-</div>
+|      | Project | What it is |
+| :--- | :--- | :--- |
+| `01` | **[Solara Labs](https://solara-labs.com)** | A studio for AI products and custom software. Agents, web apps, voice, and the systems around them. |
+| `02` | **[Suqe](https://suqe.bio)** | Turns a Telegram channel into a store. Buyers pay with Telebirr, CBE, or M-PESA, and the payment is checked with the bank instead of a screenshot. |
+| `03` | **[Launchpot](https://launchpot.space)** | A launch board where fans back the makers they like. Ranked by support, not by an algorithm. |
 
----
+### Stack
 
-## ⚡ What I'm building
+|      |      |
+| :--- | :--- |
+| **Language** | TypeScript, JavaScript, Python |
+| **Frontend** | React, Next.js, Tailwind CSS, shadcn/ui, Radix UI, Base UI, Motion, TanStack, Expo, React Native |
+| **Backend and data** | Node.js, Bun, FastAPI, PostgreSQL, MongoDB, Redis, Firebase, nginx |
+| **AI** | LLM apps, RAG systems, AI agents |
+| **Workflow** | Git, GitHub, Docker, Vercel, Linux, Claude, Cursor |
+| **Design** | Figma, Paper, Photoshop |
 
-```typescript
-const kenawak = {
-  location: "Addis Ababa, Ethiopia 🇪🇹",
-  role: "Full-Stack Developer",
-  focus: ["AI Agents", "RAG Systems", "AI-Powered Web Apps"],
-  currentlyShipping: {
-    adwaAI: "AI-powered museum platform — scan an artifact, hear its story, walk a 3D museum in your browser",
-  },
-  interests: ["AI Safety", "Agentic Systems", "AI for low-resource languages"],
-};
-```
+### Focus
 
+AI agents, RAG systems, and AI-powered web apps. Also interested in AI safety, agentic systems, and AI for low-resource languages.
 
----
+### Activity
 
-## 🛠️ Stack
+<p align="center">
+  <a href="https://github.com/kenawak">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+      <img src="assets/activity-light.svg" width="840" alt="A year of GitHub contributions, with totals, streaks, and languages.">
+    </picture>
+  </a>
+</p>
 
-**Core**
+<p align="center"><sub>Redrawn every day from live GitHub data by a small script in this repo.</sub></p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<p align="center"><img src="assets/wurroo-nap.svg" width="840" alt=""></p>
 
-**AI / Backend**
+<p align="center">
+  <b>Building for the next billion users, starting from Addis Ababa.</b><br>
+  Open to collabs on RAG, agentic systems, and AI-powered products. <a href="mailto:kenawakibsa95@gmail.com">Say selam.</a>
+</p>
 
-![OpenAI](https://img.shields.io/badge/LLM_Apps-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6F61?style=flat-square&logo=databricks&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kenawak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenawak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenawak&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Building for the next billion users — starting from Addis Ababa.**
-
-*Open to collabs on RAG, agentic systems, and AI-powered products.* [Let's talk →](mailto:kenawakibsa95@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=kenawak&style=flat-square&color=00d9ff" alt="Profile Views"/>
-
-</div>
+<p align="center"><sub>The cat is Wurroo.</sub></p>
