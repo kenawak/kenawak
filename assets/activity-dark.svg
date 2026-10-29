@@ -19,7 +19,7 @@
 <g clip-path="url(#frame-dark)">
 <rect width="840" height="454" fill="#241d18"/>
 <path d="M0 210.5H840M0 276.5H840M280.5 210V342M560.5 210V342M0 342.5H840M280.5 342V454" stroke="#4b3c31" fill="none"/>
-<text x="24" y="34" text-anchor="start" font-size="10" letter-spacing=".08em" fill="#b7a593">CONTRIBUTIONS PER WEEK · 26 OCT 2025 – 28 OCT 2026</text>
+<text x="24" y="34" text-anchor="start" font-size="10" letter-spacing=".08em" fill="#b7a593">CONTRIBUTIONS PER WEEK · 26 OCT 2025 – 29 OCT 2026</text>
 <text x="816" y="34" text-anchor="end" font-size="10" letter-spacing=".08em" fill="#b7a593">GITHUB.COM/KENAWAK</text>
 <path d="M54 174.5H816" stroke="#4b3c31" />
 <text x="46" y="178" text-anchor="end" font-size="10" fill="#b7a593">0</text>
@@ -49,13 +49,13 @@
 <text x="24" y="268" font-size="12" fill="#b7a593">in the last year</text>
 <text x="304" y="232" text-anchor="start" font-size="10" letter-spacing=".08em" fill="#b7a593">ACTIVE DAYS</text>
 <text x="304" y="252" font-size="14" fill="#f1e7da">172</text>
-<text x="304" y="268" font-size="12" fill="#b7a593">of 368 days</text>
+<text x="304" y="268" font-size="12" fill="#b7a593">of 369 days</text>
 <text x="584" y="232" text-anchor="start" font-size="10" letter-spacing=".08em" fill="#b7a593">BUSIEST DAY</text>
 <text x="584" y="252" font-size="14" fill="#f1e7da">72 contributions</text>
 <text x="584" y="268" font-size="12" fill="#b7a593">23 Oct 2026</text>
 <text x="24" y="298" text-anchor="start" font-size="10" letter-spacing=".08em" fill="#b7a593">CURRENT STREAK</text>
-<text x="24" y="318" font-size="14" fill="#f1e7da">15 days</text>
-<text x="24" y="334" font-size="12" fill="#b7a593">since 13 Oct 2026</text>
+<text x="24" y="318" font-size="14" fill="#f1e7da">None right now</text>
+<text x="24" y="334" font-size="12" fill="#b7a593"></text>
 <text x="304" y="298" text-anchor="start" font-size="10" letter-spacing=".08em" fill="#b7a593">LONGEST STREAK</text>
 <text x="304" y="318" font-size="14" fill="#f1e7da">17 days</text>
 <text x="304" y="334" font-size="12" fill="#b7a593">7 Sep 2026 – 23 Sep 2026</text>
